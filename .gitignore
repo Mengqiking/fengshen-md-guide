@@ -1,0 +1,8 @@
+# Publish only these project files. A Mega Drive ROM can also end in .md.
+*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/play.py
+!/Play.cmd
+!/fengshen.cfg
